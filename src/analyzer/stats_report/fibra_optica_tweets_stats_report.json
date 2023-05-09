@@ -1,0 +1,367 @@
+{
+    "Post Dates Stats": {
+        "Average tweets per day": 0.09727626459143969, 
+        "Average tweets per week": 0.6809338521400778, 
+        "Average tweets per month": 2.9166666666666665, 
+        "Average tweets per year": 35.0, 
+        "Peak tweet day": "2019-01-23", 
+        "Peak tweet hour": "17:00", 
+        "Average time between tweets": "-11d -249h 53m", 
+        "Minimum time between tweets": "-97d -2328h 1m 9s", 
+        "Maximum time between tweets": "-1d -1h 58m 43s"
+    }, 
+    "Number of tweets": 175, 
+    "Sentiment Analysis Stats": {
+        "Number of Positive Tweets": 104, 
+        "Number of Neutral Tweets": 36, 
+        "Number of Negative Tweets": 35
+    }, 
+    "Polarity Score Stats": {
+        "Average Positive Score": 0.6975288461538462, 
+        "Average Neutral Score": -0.0001944444444444477, 
+        "Average Negative Score": -0.4564
+    }, 
+    "Clustering of Tweets": {
+        "Cluster Features": [
+            "as", 
+            "barri", 
+            "buen", 
+            "cabl", 
+            "cambi", 
+            "cas", 
+            "ciud", 
+            "clar", 
+            "cnic", 
+            "conect", 
+            "dej", 
+            "funcion", 
+            "hac", 
+            "hog", 
+            "hoy", 
+            "instal", 
+            "internet", 
+            "lleg", 
+            "meg", 
+            "mes", 
+            "optic", 
+            "pa", 
+            "pag", 
+            "pas", 
+            "personal", 
+            "plan", 
+            "primer", 
+            "problem", 
+            "pued", 
+            "quier", 
+            "ser", 
+            "servici", 
+            "sol", 
+            "ten", 
+            "tig", 
+            "trabaj", 
+            "tv", 
+            "veloc", 
+            "zon"
+        ], 
+        "Number of Docs per Cluster": {
+            "0": 68, 
+            "1": 63, 
+            "2": 22, 
+            "4": 13, 
+            "3": 9
+        }
+    }, 
+    "Common Concepts of Tweets and Counts": {
+        "Día": 89, 
+        "Hoy": 70, 
+        "Comisión": 56, 
+        "Sesión": 43, 
+        "Inicia": 37, 
+        "Manera": 34, 
+        "Clase": 33, 
+        "Prof": 31, 
+        "Paraguay": 31, 
+        "Sala": 24
+    }, 
+    "Iterative Clustering of Tweets": {
+        "Clustering Tweets Data": {
+            "0": [
+                [
+                    "automatización educación técnica ayudan producir trabajando menos", 
+                    -0.42869311468245014, 
+                    -0.6745871737186595
+                ], 
+                [
+                    "recepcion digital fisica carga gestorremision distribucion forma digital expedientes interior mopc logrosenmeu actualizacion sgdautomatizacion numeracion meuimplementacion meu digital", 
+                    0.7622837186462746, 
+                    -0.16734491003491445
+                ], 
+                [
+                    "automatización industrialyplcsemanita intensa examenes", 
+                    0.5404195070007023, 
+                    -0.5473098261245598
+                ], 
+                [
+                    "servicio herrería creación automatización portones hogar negocio diseños prefieran mantenimientos elementos metálicos presupuestos compromiso portones hogar negocio herrero", 
+                    0.18504326195391554, 
+                    -0.6845830119517737
+                ], 
+                [
+                    "automatización portones servicio herrería mantenimientos elementos metálicos presupuestos compromiso portonautomatico hogar negocio herrero", 
+                    0.22256991940047527, 
+                    -0.6765092688506278
+                ], 
+                [
+                    "habilitan ypacaraí instituto técnico superior departamental municipal carrera montaje mantenimiento instalaciones automatización industrial duración años inscripciones casa cultura marzo", 
+                    0.576976979860447, 
+                    0.06224433329382905
+                ], 
+                [
+                    "propósito trabajar futuro prometedor junto stand dedicado futurodeltrabajo destacamos aplicación robotización automatización informática empleos futuro", 
+                    -0.20800599038411982, 
+                    0.2444755858746919
+                ], 
+                [
+                    "veces llamada funciona mejor innovaciones whatsapp google calendar automatización democratizaron después", 
+                    -0.3586812651595628, 
+                    0.6203875390595044
+                ], 
+                [
+                    "geeeniaaal capacidad automatización valorarlo cuento veces hago parecido pasa todooo", 
+                    -0.26042891056261225, 
+                    0.6904606582110275
+                ], 
+                [
+                    "ceo emblue exponiendo asunción automatización omnicanalidad", 
+                    -0.7095793844985591, 
+                    0.28920867001111583
+                ], 
+                [
+                    "quién listo automatización informe revela países mejor preparados", 
+                    -0.477073610994817, 
+                    0.4804858125951531
+                ]
+            ], 
+            "1": [
+                [
+                    "sesionordinaria sen senado expresa reconocimiento agradecimiento senado persona sr roberto bustos prosecret gral tesorero x valioso aporte pla automatización proceso legislativo pyo", 
+                    -0.0553987123094964, 
+                    -0.4040693742921644
+                ], 
+                [
+                    "automatización operaciones cambio inevitable empresas gestionar procesos transformación manera ética poniendo personas equipos centro hoy nov zoom gew gewpy", 
+                    0.0349287431022732, 
+                    -0.2339837002952015
+                ], 
+                [
+                    "convocatoria cpi accediendo link podes preinscribir cursillo probatorio ingreso carreras técnico superior tic diseño moda mecatrónica automatización control mecatrónica robótica industrial", 
+                    0.416397103848987, 
+                    0.20700839725116665
+                ], 
+                [
+                    "¡taller gratuito alianza bims implementá herramientas permitan gestionar manera óptima negocios procesos automatización inteligencia martes septiembre costo inscribite", 
+                    -0.10616309082822682, 
+                    -0.5620443301791023
+                ], 
+                [
+                    "difusión resultados proyecto automatización análisis multilocus secuencias repetitivas tándem número variable mlva tipificación staphylococcus aureus aislados nosocomiales población pediátrica disertante fátima rodríguez msc", 
+                    0.5417385938293039, 
+                    -0.27684971784948204
+                ], 
+                [
+                    "aprendices programa robótica presentaron proyecto automatización procesos agricultura logrando segundo lugar", 
+                    0.2004183318840335, 
+                    -0.06884560546098335
+                ]
+            ], 
+            "2": [
+                [
+                    "imaginas mayo día trabajo futuro lejano automatización trabajo desplazó fuerza humana", 
+                    -0.5038888206575475, 
+                    -0.05391684687886743
+                ], 
+                [
+                    "peor sentirse inútil explotado siglo xx obrero podía ir huelga ahora automatización obreros prescindibles ir huelga si nadie necesita", 
+                    -0.7538230411537463, 
+                    -0.21364422910486483
+                ], 
+                [
+                    "blas cristaldo candidato presidencia incoop concopar fecoprod puntualiza ejes plan trabajo basados profesionalización sector digitalización automatización procesos facilitará seguimiento gestiones debate", 
+                    -0.33704871793920504, 
+                    -0.31442338885191456
+                ], 
+                [
+                    "parece criterio siempre intrigan verticales trabajo retail parece tierra nadie estándar automatización monitoreo", 
+                    -0.6342410737244533, 
+                    -0.19278128629773109
+                ], 
+                [
+                    "sociedad dinero efectivo difícil evadir impuestos recibir sobornos hacer negocios ilícitos ¡sálvese pueda futuro trabajo automatización página", 
+                    -0.4035936981397936, 
+                    -0.09173168772510154
+                ]
+            ], 
+            "3": [
+                [
+                    "im at laboratorio neumática electroneumatica automatización ucv in villarrica departamento guairá", 
+                    0.1642521890501057, 
+                    0.5837561169832577
+                ], 
+                [
+                    "penúltimo día primera semana laboratorio neumática electroneumatica automatización ucv in villarrica departamento guairá", 
+                    0.1676094181023065, 
+                    0.6002324093527562
+                ], 
+                [
+                    "mitad semana laboratorio neumática electroneumatica automatización ucv in villarrica departamento guairá", 
+                    0.1676094487541099, 
+                    0.600232418937578
+                ]
+            ], 
+            "4": [
+                [
+                    "continúa abierta preinscripción maestría ingeniería eléctrica dos variantes planificación sistemas eléctricos automatización control iniciar registro va fines octubre", 
+                    0.6251408942534726, 
+                    0.3963401569328147
+                ], 
+                [
+                    "modernización sistemas control protecciones líneas villa aureliatres bocas villa aureliabarrio parque nivel tensión kvexpertos protección automatización…", 
+                    0.6312313213485798, 
+                    0.38779225911208476
+                ]
+            ]
+        }, 
+        "Top Terms per Cluster": {
+            "0": [
+                [
+                    "automatización", 
+                    7
+                ], 
+                [
+                    "portones", 
+                    3
+                ], 
+                [
+                    "digital", 
+                    2
+                ], 
+                [
+                    "herrería", 
+                    2
+                ], 
+                [
+                    "mantenimientos", 
+                    2
+                ], 
+                [
+                    "elementos", 
+                    2
+                ]
+            ], 
+            "1": [
+                [
+                    "automatización", 
+                    2
+                ], 
+                [
+                    "gestionar", 
+                    2
+                ], 
+                [
+                    "procesos", 
+                    2
+                ], 
+                [
+                    "manera", 
+                    2
+                ], 
+                [
+                    "mecatrónica", 
+                    2
+                ], 
+                [
+                    "proyecto", 
+                    2
+                ]
+            ], 
+            "2": [
+                [
+                    "trabajo", 
+                    3
+                ], 
+                [
+                    "futuro", 
+                    2
+                ], 
+                [
+                    "automatización", 
+                    2
+                ], 
+                [
+                    "parece", 
+                    2
+                ], 
+                [
+                    "imaginas", 
+                    1
+                ], 
+                [
+                    "lejano", 
+                    1
+                ]
+            ], 
+            "3": [
+                [
+                    "laboratorio", 
+                    3
+                ], 
+                [
+                    "neumática", 
+                    3
+                ], 
+                [
+                    "villarrica", 
+                    3
+                ], 
+                [
+                    "departamento", 
+                    3
+                ], 
+                [
+                    "guairá", 
+                    3
+                ], 
+                [
+                    "semana", 
+                    2
+                ]
+            ], 
+            "4": [
+                [
+                    "sistemas", 
+                    2
+                ], 
+                [
+                    "control", 
+                    2
+                ], 
+                [
+                    "villa", 
+                    2
+                ], 
+                [
+                    "continúa", 
+                    1
+                ], 
+                [
+                    "abierta", 
+                    1
+                ], 
+                [
+                    "preinscripción", 
+                    1
+                ]
+            ]
+        }
+    }
+}

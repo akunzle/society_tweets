@@ -1,0 +1,24 @@
+{
+    "Post Dates Stats": {
+        "Average tweets per day": 0.061004784688995214,
+        "Average tweets per week": 0.42857142857142855,
+        "Average tweets per month": 1.8545454545454545,
+        "Average tweets per year": 20.4,
+        "Peak tweet day": "2022-12-29",
+        "Peak tweet hour": "21:00",
+        "Average time between tweets": "-17d -398h 49m",
+        "Minimum time between tweets": "-116d -2776h 58m 9s",
+        "Maximum time between tweets": "-1d -1h 47m 35s"
+    },
+    "Number of tweets": 102,
+    "Sentiment Analysis Stats": {
+        "Number of Positive Tweets": 78,
+        "Number of Neutral Tweets": 3,
+        "Number of Negative Tweets": 21
+    },
+    "Polarity Score Stats": {
+        "Average Positive Score": 0.6286794871794872,
+        "Average Neutral Score": 0.0,
+        "Average Negative Score": -0.28528571428571425
+    }
+}

@@ -1,0 +1,13 @@
+{
+  "metadata": "/Users/andreakunzle/society_tweets/sentiment_analysis/algoritmo_tweets.csv",
+  "tweets_qry": 100,
+  "twitter": {
+    "consumer_key":"YOurCoNsuMerKEy",
+    "consumer_secret":"yOuRconSumERseCrEt"
+  },
+  "mongo": {
+    "host": "localhost",
+    "port": "27017",
+    "db_name": "generales2018"
+  }
+}
